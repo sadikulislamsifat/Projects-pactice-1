@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+    box-sizing: border-box;
+}
+.orange{
+    color: orange;
+}
+.half{
+    width: 50%;
+}
+.pic{
+    width: 50%;
+    height: 50%;
+}
+.display{
+    display: flex;
+    align-items: center;
+    padding-left: 60px;
+}
+header{
+    margin-bottom: 100px;   
+}
+.header-content h1{
+    margin-bottom: 35px;
+}
+.header-content p{
+    margin-bottom: 45px;
+}
+.btn{
+    text-decoration: none;
+    background-image: linear-gradient(#FB974B,#FD4F30);
+    padding: 15px 40px;
+    border-radius: 40px;
+    color: #fff;
+
+}
+.about{
+    height: 100vh;
+    background-image: url(images/Frame\ 58.jpg);
+     background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding: 20px;
+}
+.about-content h1{
+    margin-bottom: 50px;
+}
+.about-content p{
+    margin-bottom: 50px;
+}
