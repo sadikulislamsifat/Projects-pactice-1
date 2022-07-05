@@ -63,8 +63,7 @@ header{
 }
 .about-pic{
     padding: 10px;
-    margin-bottom: ;
-
+    
 }
 .about-content h1{
     margin-bottom: 50px;
@@ -82,7 +81,7 @@ header{
 .recipe-img{
    width: 90%;
    height: 50%;
-   margin-top: ;
+ 
    box-shadow: 5px 7px 10px -10px;
 }
 .recipe-img1{
@@ -102,7 +101,7 @@ header{
     margin: 70px 5%;
 }
 .recipe-container{
-    margin: ;
+   
 }
 .food{
     padding: 30px;
